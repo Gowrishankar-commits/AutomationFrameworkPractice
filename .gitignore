@@ -1,0 +1,17 @@
+# Ignore build/test output
+test-output/
+target/
+build/
+*.class
+*.log
+
+# IDE files
+*.iml
+.idea/
+*.swp
+
+# macOS system files
+.DS_Store
+
+# VSCode
+.vscode/
